@@ -56,8 +56,7 @@ img {
   align-items: center;
   position: relative;
   perspective: 1000px;
-  overflow: hidden;
-  
+  overflow: hidden;  
 }
 .heading {
   margin-left: 20%;
